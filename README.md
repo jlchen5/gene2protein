@@ -1,2 +1,2 @@
 # gene2protein
-Predicting the protein level with gene expression
+Predicting the protein level with gene expression in python.
