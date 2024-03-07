@@ -21,8 +21,11 @@ Before running the scripts, ensure you have the following installed:
 
 You can install these packages using pip:
 
-```bash
+~~~
 pip install pandas scikit-learn
+~~~
 
+## License
+This project is available under the MIT License. See the LICENSE file in the repository for full details.
 
 
