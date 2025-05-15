@@ -1,0 +1,11 @@
+data_paths:
+  raw_expression: data/raw/gene_expression_data.csv
+  processed: data/processed/normalized.h5
+
+model_params:
+  polynomial_degree: 2
+  regularization: [0.1, 1.0, 10.0]
+
+analysis:
+  expression_threshold: 5.0
+  correlation_methods: [pearson, spearman]
