@@ -94,6 +94,6 @@ filtered_data.to_hdf('data/processed/normalized.h5', key='gene_exp', mode='w')
 ~~~
 
 ## License
-This project is available under the MIT License. See the LICENSE file in the repository for full details.
+This project is available under the [MIT License](https://github.com/jlchen5/gene2protein/blob/main/LICENSE). See the LICENSE file in the repository for full details.
 
 
